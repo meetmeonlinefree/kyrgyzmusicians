@@ -1,1 +1,28 @@
-[]
+{
+  "id": "a_mirbek_otabekov",
+  "name": "Mirbek Otabekov",
+  "image_url": "https://yt3.googleusercontent.com/lJv3QQFFq_-u-LJL5bB_Rcpr9qmblfUDzkbU7kqATX2hOcG9zYDFMOF67JPK2BtBV5A3hqsN=s176-c-k-c0x00ffffff-no-rj-mo",
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_mirbek_otabekov",
+      "title": "Мирбек Атабеков - Ошондо Жакшы Болобу",
+      "description": "Мирбек Атабеков - Ошондо Жакшы Болобу",
+      "image_url": "https://i.ytimg.com/vi/-7rl9Ce-fiU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC0iKvcgEu7tQPJhJFPOgJDsFn1jQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/kgvideo/refs/heads/main/video/Mirbek_Otabekov_Oshondo_zhakshi_bolobu2.mp4",
+      "publishedAt": "2026-08-29",
+      "durationSec": 222
+    },
+    {
+      "id": "2",
+      "artistId": "a_mirbek_otabekov",
+      "title": "Ошондо жакшы болобу - cover by Tynyskhan Elen",
+      "description": "Ошондо жакшы болобу - cover by Tynyskhan Elen",
+      "image_url": "https://i.ytimg.com/vi/imaTa0e6muA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_HTuRvuCLZHMtUIHmCHYDPniKUQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/kgvideo/refs/heads/main/video/Mirbek_Otabekov_Oshondo_zhakshi_bolobu.mp4",
+      "publishedAt": "2026-08-29",
+      "durationSec": 207
+    }
+  ]
+}
